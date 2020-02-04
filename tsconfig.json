@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "es5",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "outDir": "lib",
+    "rootDir": "src",
+    "lib": [
+      "es2017",
+      "dom"
+    ]
+  }
+}
