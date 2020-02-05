@@ -1,7 +1,7 @@
 import JssdkClient from '../../tokenlon-jssdk/lib'
 
 export const jssdkClient = JssdkClient({
-  address: '0x74352cCbEdA66517386F04b7827616a06C69b0F6',
-  privateKey: 'e0abe062428d46d8bef339b21bf05c8b9449a6328be180e618b36691b88b5829',
+  address: '0x865eADB12Bf29CD141A0De88FD29716e2c169a86',
+  privateKey: 'd1451880ed758be8e82c60c2cd4f77228064c3bbad3cb4825b55b226780d189d',
   providerUrl: 'https://mainnet.infura.io',
 })
